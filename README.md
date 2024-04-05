@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @okgamr
-- 👀 I’m interested in green things that are fluent and have win 11 layout
-- 🌱 I’m currently learning to understand people that make apps
-- 💞️ I’m looking to collaborate on error finding in apps
+- 👀 I’m interested in green things
+- 🌱 I’m currently learning to make WinUI 3 apps
+- 💞️ I’m looking to collaborate on finding errors/issues in apps
 - 📫 How to reach me: email me at pdimi321@gmail.com
-- ⚡ Fun fact: trying c++ and html (with all its friends) developing on replit
+- ⚡ Fun fact: c++ start amateur :smile:
 
 <!---
 okgamr/okgamr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
