@@ -4,7 +4,7 @@
 - 👀 I’m interested in green things
 - 🌱 I’m currently learning to make WinUI 3 apps
 - 💞️ I’m looking to collaborate on finding errors/issues in apps
-- 📫 How to reach me: email me at pdimi321@gmail.com
+- 📫 How to reach me: email me at [pdimi321@gmail.com](mailto:pdimi321@gmail.com)
 - ⚡ Fun fact: c++ start amateur :smile:
 
 <!---
