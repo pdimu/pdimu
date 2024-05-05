@@ -4,8 +4,8 @@
 
 
 - 👋 Hi, I’m @okgamr
-- 👀 I’m interested in green things
-- 🌱 I’m currently learning to make WinUI 3 apps (aborted for the next 5mo
+- 👀 I’m interested in green things 💚
+- 🌱 I’m currently learning to make WinUI 3 apps (aborted for the next 5mo)
 - 💞️ I’m looking to collaborate on finding errors/issues in apps
 - 📫 How to reach me: email me at [pdimi321@gmail.com](mailto:pdimi321@gmail.com)
 - ⚡ Fun fact: c++ coding as well
