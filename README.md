@@ -1,7 +1,8 @@
 # <img alt="Hello! 👋" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1000&pause=4500&color=F7F7F7&width=435&lines=Hello!+%F0%9F%91%8B;Salut!+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%F0%9F%91%8B;%C2%A1Hola!+%F0%9F%91%8B;Ciao!+%F0%9F%91%8B;Oi!+%F0%9F%91%8B;Salve!+%F0%9F%91%8B;Hallo!+%F0%9F%91%8B"/>
-
 <img align="center" src="https://github.com/pdimu/pdimu/blob/main/asset%20for%20readme.png" width="250"/>
 
+![Dimu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pdimu&rank_icon=github&show_icons=true&title_color=61c677&icon_color=61c677&text_color=61c677&bg_color=151515
+)
 
 - 👋 Hi, I’m @pdimu
 - 👀 I like green things 💚
