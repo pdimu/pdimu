@@ -1,7 +1,7 @@
 <!---
 # <img alt="Hello! 👋" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=1000&pause=4500&color=F7F7F7&width=435&lines=Hello!+%F0%9F%91%8B;Salut!+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%F0%9F%91%8B;%C2%A1Hola!+%F0%9F%91%8B;Ciao!+%F0%9F%91%8B;Oi!+%F0%9F%91%8B;Salve!+%F0%9F%91%8B;Hallo!+%F0%9F%91%8B"/>
 --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=60&duration=2150&pause=&color=61C677&background=15151500&center=true&vCenter=true&multiline=true&repeat=false&width=467&height=195&lines=Hi!+%F0%9F%91%8B%F0%9F%8F%BC;I+am+%40pdimu!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=60&duration=2750&pause=&color=61C677&background=15151500&center=true&vCenter=true&multiline=true&repeat=false&width=467&height=195&lines=Hi!+%F0%9F%91%8B%F0%9F%8F%BC;I+am+%40pdimu!)](https://git.io/typing-svg)
 <!---
 <img align="left" src="https://github.com/pdimu/pdimu/blob/main/asset%20for%20readme.png" width="250"/> 
 --->
