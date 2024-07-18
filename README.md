@@ -8,7 +8,6 @@
 ![Dimu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pdimu&rank_icon=github&show_icons=true&title_color=61c677&icon_color=61c677&text_color=61c677&bg_color=151515
 )
 
-- 👋 Hi, I’m @pdimu
 - 👀 I like green things 💚
 - 🌱 I’m currently learning to make WinUI 3 apps (aborted for the next 5mo)
 - 💞️ I’m looking to collaborate on new ideas (gave by **me**, refined by **you**)
