@@ -17,8 +17,8 @@
 
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=pdimu&label=Profile%20Views&color=3&icon=0&pretty=true">
 
-- 👀 I like green things 💚
-- 🌱 I’m currently learning to make WinUI 3 apps (aborted for the next 5mo)
+- 💚 I like green things
+- 🌱 I’m currently learning to make WinUI 3 apps (aborted, but always ready)
 - 💞️ I’m looking to collaborate on new ideas (gave by **me**, refined by **you**)
 - 📫 How to reach me: email me at [pdimi321@gmail.com](mailto:pdimi321@gmail.com)
 - ⚡ Fun fact: c++ coding as well (find my projects on [Replit](https://replit.com/@pdimi321) or on my repo [pdimu/cpp-projects](https://github.com/pdimu/cpp-projects))
