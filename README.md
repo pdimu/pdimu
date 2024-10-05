@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on new ideas (gave by **me**, refined by **you**)
 - 📫 How to reach me: email me at [pdimi321@gmail.com](mailto:pdimi321@gmail.com)
-- ⚡ Fun fact: I love Material You (Material Design 3) and WinUI 3
+- ⚡ Fun fact: I love Material You (within Material Design 3) and WinUI 3
 
 <!---
 pdimu/pdimu is a ✨ special ✨ repository because its `README.md` (this file) appears on his GitHub profile.
