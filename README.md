@@ -17,15 +17,15 @@
 
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=pdimu&label=Profile%20Views&color=3&icon=0&pretty=true">
 
-- 💚 I like green things
+💚 I like green things
 ---
-- 🌱 I’m currently learning C#
+🌱 I’m currently learning C#
 ---
-- 💞️ I’m looking to collaborate on new ideas (gave by **me**, refined by **you**)
+💞️ I’m looking to collaborate on new ideas (gave by **me**, refined by **you**)
 ---
-- 📫 How to reach me: email me at [pdimi321@gmail.com](mailto:pdimi321@gmail.com)
+📫 How to reach me: email me at [pdimi321@gmail.com](mailto:pdimi321@gmail.com)
 ---
-- ⚡ Fun fact: c++ coding as well (find my projects on [Replit](https://replit.com/@pdimi321) or on my repo [pdimu/cpp-projects](https://github.com/pdimu/cpp-projects))
+⚡ Fun fact: c++ coding as well (find my projects on [Replit](https://replit.com/@pdimi321) or on my repo [pdimu/cpp-projects](https://github.com/pdimu/cpp-projects))
 
 <!---
 pdimu/pdimu is a ✨ special ✨ repository because its `README.md` (this file) appears on his GitHub profile.
