@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/77c41f7f-4613-4108-be17-0dfba18c9437" width="467"/> 
 --->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=60&duration=4000&pause=&color=61C677&background=15151500&center=true&vCenter=true&multiline=true&repeat=false&width=467&height=195&lines=Hi!+%F0%9F%91%8B%F0%9F%8F%BC;I+am+%40pdimu!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=60&duration=3500&pause=&color=61C677&background=15151500&center=true&vCenter=true&multiline=true&repeat=false&width=467&height=195&lines=Hi!+%F0%9F%91%8B%F0%9F%8F%BC;I+am+%40pdimu!)](https://git.io/typing-svg)
 
 ![Dimu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pdimu&rank_icon=github&show_icons=true&title_color=61c677&icon_color=61c677&text_color=61c677&bg_color=151515
 )
