@@ -19,7 +19,7 @@
 
 - 💚 I like **green things**
 - 🌱 I’m currently learning **C# and Kotlin**
-- 💞️ I’m looking to collaborate on **new ideas (gave by *me*, refined by *you*)
+- 💞️ I’m looking to collaborate on **new ideas (gave by *me*, refined by *you*)**
 - 📫 How to reach me: email me at **[pdimi321@gmail.com](mailto:pdimi321@gmail.com)**
 - ⚡ Fun fact: **I love Material You (within Material Design 3) and WinUI 3**
 
