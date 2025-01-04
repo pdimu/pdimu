@@ -15,7 +15,9 @@
 ![Dimu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pdimu&rank_icon=github&show_icons=true&title_color=61c677&icon_color=61c677&text_color=61c677&bg_color=151515
 )
 
+<!---
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=pdimu&label=Profile%20Views&color=3&icon=0&pretty=true">
+--->
 
 - 💚 I like **green things**
 - 🌱 I’m currently learning **C# and Kotlin**
