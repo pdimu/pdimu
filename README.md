@@ -19,11 +19,13 @@
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=pdimu&label=Profile%20Views&color=3&icon=0&pretty=true">
 --->
 
-- 💚 I like **green things**
-- 🌱 I’m currently learning **C# and Kotlin**
-- 💞️ I’m looking to collaborate on **new ideas (gave by *me*, refined by *you*)**
+- 💚 My favorite color is **green**
+- 🌱 I’m currently learning Windows and Android development
+- 💞️ I’m looking to collaborate on random useful projects
 - 📫 How to reach me: email me at **[pdimi321@gmail.com](mailto:pdimi321@gmail.com)**
-- ⚡ Fun fact: **I love Material You (within Material Design 3) and WinUI 3**
+- ⚡ Fun fact: **I love Material You (within Material Design 3 and Material Expressive) and WinUI 3**
+
+^currently afk because of exams, will start my projects soon™
 
 <!---
 pdimu/pdimu is a ✨ special ✨ repository because its `README.md` (this file) appears on his GitHub profile.
