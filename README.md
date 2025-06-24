@@ -20,8 +20,7 @@
 --->
 
 - 💚 My favorite color is **green**
-- 🌱 I’m currently learning Windows and Android development
-- 💞️ I’m looking to collaborate on random useful projects
+- 🌱 I’m currently learning Android development
 - 📫 How to reach me: email me at **[pdimi321@gmail.com](mailto:pdimi321@gmail.com)**
 - ⚡ Fun fact: **I love Material You (within Material Design 3 and Material Expressive) and WinUI 3**
 
