@@ -24,7 +24,7 @@
 - 📫 How to reach me: email me at **[pdimi321@gmail.com](mailto:pdimi321@gmail.com)**
 - ⚡ Fun fact: **I love Material You (within Material Design 3 and Material Expressive) and WinUI 3**
 
-^currently afk because i need a new pc, MultiTune is coming starting September 
+^currently afk because i need a new pc, MultiTune is coming in September 
 
 <!---
 pdimu/pdimu is a ✨ special ✨ repository because its `README.md` (this file) appears on his GitHub profile.
