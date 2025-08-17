@@ -21,6 +21,7 @@
 
 - 💚 My favorite color is **green**
 - 🌱 I’m currently learning Android development
+- ✨ I'm also a designer on Figma
 - 📫 How to reach me: email me at **[pdimi321@gmail.com](mailto:pdimi321@gmail.com)**
 - ⚡ Fun fact: **I love Material You (within Material Design 3 and Material Expressive) and WinUI 3**
 
