@@ -20,12 +20,11 @@
 --->
 
 - 💚 My favorite color is **green**
-- 🌱 I’m currently learning Android development
-- ✨ I'm also a designer on Figma
-- 📫 How to reach me: email me at **[pdimi321@gmail.com](mailto:pdimi321@gmail.com)**
+- 🌱 I’m currently learning **Android development**
+- ✨ I'm also a designer on **Figma**
 - ⚡ Fun fact: **I love Material You (within Material Design 3 and Material 3 Expressive) and WinUI 3**
 
-^currently afk because i need a new pc, MultiTune is coming in late October or starting November 
+^not active due to school, MultiTune is coming mid 2026, depending if i can acquire a pc by march or may
 
 <!---
 pdimu/pdimu is a ✨ special ✨ repository because its `README.md` (this file) appears on his GitHub profile.
