@@ -26,7 +26,7 @@
 - ✨ I'm also a designer on **Figma**
 - ⚡ Fun fact: **My favorite design languages are _Material 3 Expressive_ and _WinUI 3_**
 
-^not active due to school, MultiTune is coming mid 2026, depending if i can acquire a pc by march or may
+^not active due to school
 
 <!---
 pdimu/pdimu is a ✨ special ✨ repository because its `README.md` (this file) appears on his GitHub profile.
