@@ -24,7 +24,7 @@
 - 💚 My favorite color is **green**
 - 🌱 I’m currently learning **Android development**
 - ✨ I'm also a designer on **Figma**
-- ⚡ Fun fact: **My favorite design languages are _Material 3 Expressive_ and _WinUI 3_**
+- ✒️ My favorite design languages are **Material 3 Expressive and WinUI 3**
 
 ^not active due to school
 
