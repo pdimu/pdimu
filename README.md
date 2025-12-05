@@ -22,7 +22,7 @@
 - 💚 My favorite color is **green**
 - 🌱 I’m currently learning **Android development**
 - ✨ I'm also a designer on **Figma**
-- ⚡ Fun fact: **I love Material You (within Material Design 3 and Material 3 Expressive) and WinUI 3**
+- ⚡ Fun fact: **My favorite design languages are _Material 3 Expressive_ and _WinUI 3_**
 
 ^not active due to school, MultiTune is coming mid 2026, depending if i can acquire a pc by march or may
 
