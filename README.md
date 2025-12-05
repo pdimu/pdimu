@@ -12,8 +12,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=500&pause=10&color=61c677&background=15151500&vCenter=true&multiline=true&repeat=false&width=150&height=85&lines=Hi!+%F0%9F%91%8B%F0%9F%8F%BC;I+am+Dimu!)](https://readme-typing-svg.demolab.com/demo/?font=Comfortaa&weight=700&size=25&duration=500&pause=10&color=479057&background=15151500&vCenter=true&multiline=true&repeat=false&width=150&height=85&lines=Hi!+%F0%9F%91%8B%F0%9F%8F%BC;I+am+Dimu!)
 
+<!---
 ![Dimu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pdimu&rank_icon=github&show_icons=true&title_color=61c677&icon_color=61c677&text_color=61c677&bg_color=151515
 )
+--->
 
 <!---
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=pdimu&label=Profile%20Views&color=3&icon=0&pretty=true">
